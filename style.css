@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
   }
-  
   body {
     font-family: 'Segoe UI', sans-serif;
     background: linear-gradient(135deg, #fff0f5, #f0fff0);
@@ -12,7 +11,6 @@
     overflow-x: hidden;
     animation: fadeIn 1s ease-in-out;
   }
-  
   header {
     background: linear-gradient(90deg, #f12711, #f5af19);
     color: white;
